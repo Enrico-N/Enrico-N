@@ -22,7 +22,6 @@ I am a passionate software developer
 </a>
 
 <a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
-
 <img alt=Email height="50px" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg"></a>
 
 </div>
