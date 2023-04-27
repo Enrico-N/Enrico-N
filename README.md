@@ -18,7 +18,7 @@ I am a passionate software developer
 <div align="center">
 
 <a href="https://www.linkedin.com/in/enrico-ng/" target="_blank" re="noreferrer">
-<img alt=Linkedin height="40x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img alt=Linkedin height="30x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
