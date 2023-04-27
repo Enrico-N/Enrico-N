@@ -1,11 +1,27 @@
-### Hi there 👋
+<!--- Header --->
+<h1>Enrico Ng</h1>
 
 <!--- Introduction --->
-<h1>Hello My Name is Enrico</h1>
+
+I am a passionate software developer
 
 <div align="center">
 
-[Email Me](mailto:ngenricok@gmail.com)
+<h4>Ways to Contact Me </h4>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/enrico-ng/" target="_blank" re="noreferrer">
+<img alt=Linkedin height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="" target="_blank" re="noreferrer">
+
+<img alt=Email height="50px" src="https://api.iconify.design/simple-icons/gmail.svg?color=white&">
 
 </div>
 
