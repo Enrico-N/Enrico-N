@@ -64,9 +64,9 @@
 <!-- Provided by: github.com/anuraghazra/github-readme-stats
 --->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Enrico-N&hide=stars&layout=compact&show_icon=true&theme=algolia&border_radius=20)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Enrico-N&hide=stars&count_private=true&show_icon=true&theme=radical&border_radius=20&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-N&layout=compact&show_icon=true&theme=algolia&border_radius=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-N&layout=compact&show_icon=true&theme=radical&border_radius=20&hide_border=true)
 
 </div>
 
