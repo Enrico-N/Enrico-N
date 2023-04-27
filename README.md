@@ -5,6 +5,8 @@
 
 I am a passionate software developer
 
+<br/>
+
 <div align="center">
 
 <h4>Ways to Contact Me </h4>
@@ -19,7 +21,7 @@ I am a passionate software developer
 <img alt=Linkedin height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<a href="" target="_blank" re="noreferrer">
+<a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
 
 <img alt=Email height="50px" src="https://api.iconify.design/simple-icons/gmail.svg?color=white&">
 
@@ -73,6 +75,8 @@ I am a passionate software developer
 </a>
 
 <!--- Statistics --->
+<br/>
+<br/>
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <div class = "stats" align="center">
