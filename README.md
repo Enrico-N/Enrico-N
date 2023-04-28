@@ -18,11 +18,11 @@ I am a passionate software developer
 <div align="center">
 
 <a href="https://www.linkedin.com/in/enrico-ng/" target="_blank" re="noreferrer">
-<img alt=Linkedin height="30x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<img alt=Linkedin height="50x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
-<img alt=Email height="50px" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg"></a>
+<img alt=Email height="50px" width="50px" style="object-fit:cover;" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg"></a>
 
 </div>
 
