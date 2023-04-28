@@ -22,7 +22,7 @@ I am a passionate software developer
 </a>
 </div>
 
-<div align="center" style="height:50px;">
+<div align="center" style="display:block; height:50px;">
 <a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
 <img alt=Email style="object-fit:fill;" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg"></a>
 </div>
