@@ -20,12 +20,11 @@ I am a passionate software developer
 <a href="https://www.linkedin.com/in/enrico-ng/" target="_blank" re="noreferrer">
 <img alt=Linkedin height="50x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-
-<div style="height:50px" >
-<a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
-<img alt=Email style="object-fit:fill;" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg"></a>
 </div>
 
+<div align="center" style="height:50px;">
+<a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
+<img alt=Email style="object-fit:fill;" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg"></a>
 </div>
 
 <br>
