@@ -41,34 +41,34 @@ I am a passionate software developer
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
         <img alt="Javascript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank" re="noreferrer">
+<a href="https://devdocs.io/Java" target="_blank" re="noreferrer">
         <img alt="Java" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://devdocs.io/Python" target="_blank" re="noreferrer">
         <img alt="Python" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="hhttps://devdocs.io/React" target="_blank" re="noreferrer">
         <img alt="React" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://devdocs.io/Node.js" target="_blank" re="noreferrer">
         <img alt="Node.js" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://devdocs.io/NPM" target="_blank" re="noreferrer">
         <img alt="NPM" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://code.visualstudio.com/docs" target="_blank" re="noreferrer">
         <img alt="VScode" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://www.mongodb.com/docs/" target="_blank" re="noreferrer">
         <img alt="MongoDB" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://www.figma.com/" target="_blank" re="noreferrer">
         <img alt="Figma" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://devdocs.io/BASH" target="_blank" re="noreferrer">
         <img alt="Bash" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" re="noreferrer">
+<a href="https://docs.arduino.cc/" target="_blank" re="noreferrer">
         <img alt="Ardiuno" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </a>
 
