@@ -47,7 +47,7 @@ I am a passionate software developer
 <a href="https://devdocs.io/Python" target="_blank" re="noreferrer">
         <img alt="Python" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </a>
-<a href="hhttps://devdocs.io/React" target="_blank" re="noreferrer">
+<a href="https://devdocs.io/React" target="_blank" re="noreferrer">
         <img alt="React" height="50px" style=" padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </a>
 <a href="https://devdocs.io/Node.js" target="_blank" re="noreferrer">
