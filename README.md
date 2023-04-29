@@ -22,7 +22,7 @@ I am a passionate software developer
 </a>
 
 <a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
-<img alt=Email height="50px" width="50px" style="background-color:rgba(255,255,255); border-radius:5px;" src="https://cdn.simpleicons.org/gmail/#EA4335"></a>
+<img alt=Email height="50px" width="50px" style="background-color:rgba(255,255,255); border-radius:5px; clip-path:inset(7px 0px 7px 0px round 4px);" src="https://cdn.simpleicons.org/gmail/#EA4335"></a>
 </div>
 
 <br>
