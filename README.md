@@ -21,11 +21,10 @@ I am a passionate software developer
 <img alt=Linkedin height="50x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<div style="height:50px;">
 <a href="mailto:ngenricok@gmail.com" target="_blank" re="noreferrer">
-<img alt=Email height="50px" width="50px" style="object-fit:cover;" src="https://cdn.cdnlogo.com/logos/g/93/gmail.svg"></a>
+<img alt=Email height="50px" width="50px" style="background-color:rgba(255,255,255); border-radius:5px;" src="https://cdn.simpleicons.org/gmail/#EA4335"></a>
 </div>
-</div>
+
 <br>
 <br>
 
