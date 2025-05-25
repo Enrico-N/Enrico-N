@@ -3,7 +3,7 @@
 
 <!--- Introduction --->
 
-I am a passionate software developer
+
 
 <br/>
 
